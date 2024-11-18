@@ -66,16 +66,16 @@ Make sure to also have Jupyter Notebook or Google Colab installed to run the not
 ### Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-clustering.git
+git clone https://github.com/joannedonohue/CryptoClustering
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd crypto-clustering
+cd CryptoClustering
 ```
 3. Open the Jupyter Notebook:
 ```bash
-jupyter notebook crypto_clustering.ipynb
+jupyter notebook Crypto_Clustering_Final.ipynb
 ```
 4. Upload the dataset (crypto_market_data.csv) if using Google Colab.
 
