@@ -1,5 +1,3 @@
-# CryptoClustering
-
 # Cryptocurrency Clustering with K-means and PCA
 
 ## Overview
